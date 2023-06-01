@@ -164,4 +164,4 @@
                  questions.length + ' right!!!');
     return score;
   }
-})();
+})();getSelection
