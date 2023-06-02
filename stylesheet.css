@@ -80,3 +80,18 @@ ul {
   display:none;
   width: 90px;
 }
+
+.footer-p {
+  text-align: center;
+  color: white;
+}
+
+.container-quiz {
+margin-top: 30px;
+text-align: center;
+width: 500px;
+}
+
+p {
+  color:#bc138f
+}
